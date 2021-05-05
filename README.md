@@ -1,5 +1,5 @@
 # My Repo Collections
-list of useful github collections
+list of useful github collections.
 
 ## Table of contents
 
