@@ -1,4 +1,4 @@
-# my-repo-collections
+# My Repo Collections
 list of useful github collections
 
 ## Table of contents
