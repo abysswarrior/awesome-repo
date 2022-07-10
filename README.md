@@ -1,4 +1,4 @@
-# My Repo Collections
+# My Awesome Repo Collections
 list of useful github collections.
 
 ## Table of contents
